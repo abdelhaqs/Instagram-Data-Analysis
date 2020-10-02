@@ -21,3 +21,5 @@ Average comments
 
 Posting habits
 Best time to post
+
+![](img/media.PNG)
