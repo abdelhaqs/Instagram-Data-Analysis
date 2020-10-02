@@ -26,7 +26,7 @@ Types of Media
 ![](img/media.PNG)
 
 Likes insights
-![](img/likes_insights)
+![](img/likes_insights.PNG)
 
 Scraped Data
-![](img/scrap_ig)
+![](img/scrap_ig.PNG)
