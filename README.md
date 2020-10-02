@@ -22,4 +22,11 @@ Average comments
 Posting habits
 Best time to post
 
+Types of Media
 ![](img/media.PNG)
+
+Likes insights
+![](img/likes_insights)
+
+Scraped Data
+![](img/scrap_ig)
