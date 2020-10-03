@@ -6,9 +6,8 @@ Hello everyone, I'm working on a project on Instagram Data Analysis (using Pytho
 To calculate this KPI with forecasting based on audience data 
 
 
-Followers last 7 days
-
-Followers last 30 days
+* Followers last 7 days
+* Followers last 30 days
 
 Average daily growth
 
