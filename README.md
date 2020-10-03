@@ -8,29 +8,17 @@ To calculate this KPI with forecasting based on audience data
 
 * Followers last 7 days
 * Followers last 30 days
-
-Average daily growth
-
-Average monthly growth
-
-Growth next 30 days
-
-Growth next 6 months
-
-
-Engagement
-
-Engagement rate
-
-Average likes
-
-Average comments
-
-Posting habits
-
-Best time to post
-
-Types of Media
+* Average daily growth
+* Average monthly growth
+* Growth next 30 days
+* Growth next 6 months
+* Engagement
+* Engagement rate
+* Average likes
+* Average comments
+* Posting habits
+* Best time to post
+* Types of Media
 
 ![](img/media.PNG)
 
