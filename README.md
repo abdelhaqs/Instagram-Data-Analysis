@@ -18,7 +18,9 @@ To calculate this KPI with forecasting based on audience data
 * Average comments
 * Posting habits
 * Best time to post
-* Types of Media
+
+
+Types of Media
 
 ![](img/media.PNG)
 
